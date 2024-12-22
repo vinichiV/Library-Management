@@ -1,1 +1,1 @@
-# Object-oriented-Programming-Lab
+# Object-oriented Programming Lab
