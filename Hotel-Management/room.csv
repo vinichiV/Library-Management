@@ -1,0 +1,14 @@
+10
+3
+5
+2,
+1,SingleRoom,available,,,
+2,SingleRoom,unavailable,Van A,111111111111,
+3,SingleRoom,unavailable,Thi B,222222222222,
+4,DoubleRoom,unavailable,Lai E,555555555555,
+5,DoubleRoom,available,,,
+6,DoubleRoom,available,,,
+7,DoubleRoom,available,,,
+8,DoubleRoom,available,,,
+9,BusinessRoom,unavailable,Le C,333333333333,
+10,BusinessRoom,unavailable,Tran D,444444444444,
